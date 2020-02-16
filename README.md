@@ -1,2 +1,2 @@
 # Face-detection-using-Azure
-Detection face in image using azure cognitive services
+Detect face in image using azure cognitive services
